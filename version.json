@@ -1,1 +1,1 @@
-{"versionCode":1796000082,"versionName":"1.8.0","url":"https://raw.githubusercontent.com/lengfeng5888/dcmm-update/main/deadcells-mod-manager.apk","minVersionCode":1796000080,"note":"v1 签名恢复 + 最低版本提示 + 日志降噪"}
+{"versionCode":1796000083,"versionName":"1.8.1","url":"https://raw.githubusercontent.com/lengfeng5888/dcmm-update/main/deadcells-mod-manager.apk","minVersionCode":1796000080,"note":"修 .so 页对齐（native 加载闪退）+ 诊断包改为真·只重签"}
