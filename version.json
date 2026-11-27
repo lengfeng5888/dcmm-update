@@ -1,6 +1,1 @@
-{
-  "versionCode": 1796000080,
-  "versionName": "1.7.0",
-  "url": "https://raw.githubusercontent.com/你的用户名/仓库名/main/deadcells-mod-manager.apk",
-  "note": "示例：修好了 XXX"
-}
+{"versionCode":1796000081,"versionName":"1.7.1","url":"https://raw.githubusercontent.com/lengfeng5888/dcmm-update/main/deadcells-mod-manager.apk","note":"内置自动更新检查（1.7.0 及以后可从仓库读版本）"}
