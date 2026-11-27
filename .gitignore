@@ -1,0 +1,17 @@
+# 只放这两样东西 + 说明；其余一律不进仓库（防止手滑把私钥/源码/大文件推上去）
+*.p12
+*.jks
+*.keystore
+*.pem
+*.key
+*.zip
+*.7z
+*.rar
+out/
+dist/
+build/
+node_modules/
+
+# APK 只允许这一个固定文件名（每次覆盖，直链才稳定）
+*.apk
+!deadcells-mod-manager.apk
